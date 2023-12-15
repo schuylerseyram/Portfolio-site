@@ -35,7 +35,7 @@ const Home = () => {
             <Logo />
             
         </div>
-        <Loader type='pacman'/>
+        <Loader type='pacman' active/>
         </>
     );
 }
