@@ -33,6 +33,11 @@ const About = () => {
                 <p>
                 I like to engage in research and projects and i love the field of Computer Architecture.
                 </p>
+                <p>
+                    Outside of class, I am a member of Cornell Hyperloop and the Battery Pack Lead. I love my job of designing a primary battery back for the team's pod to meet all primary and secondary requirements.
+
+                    I love music and I'm a vocalist!
+                </p>
                     
                 
                 </div>
