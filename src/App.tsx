@@ -8,6 +8,10 @@ import About from './components/About'
 import Contact from './components/Contact'
 import Resume from './components/Resume'
 import Projects from './components/Projects'
+import Proj1 from './components/Voice-Proj1'
+import Proj2 from './components/TWars-Proj2'
+import Proj3 from './components/Nav-Proj3'
+
 
 
 function App() {
@@ -20,6 +24,11 @@ function App() {
         <Route path="contact" element={<Contact />} />
         <Route path="resume" element={<Resume/>} />
         <Route path ="projects"element={<Projects/>} />
+        <Route path = "Proj1" element={<Proj1/>} />
+        <Route path = "Proj2" element={<Proj2/>} />
+        <Route path = "Proj3" element={<Proj3/>} />
+        
+
       </Route>
 
       

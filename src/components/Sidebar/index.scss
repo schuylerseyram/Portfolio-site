@@ -52,7 +52,7 @@ nav{
         }
 
         &:hover {
-            color: #ffd700;
+            color: #bf5700;
 
             svg {
                 opacity: 0;
@@ -112,7 +112,7 @@ nav{
     
         a.active {
             svg{
-                color: #ffd700;
+                color: #bf5700;
             }
         }
 
@@ -136,7 +136,7 @@ nav{
                 font-size: 15px;
                 line-height: 16px;
                 &:hover svg {
-                    color: #ffd700;
+                    color: #bf5700;
                 }
             }
         }
